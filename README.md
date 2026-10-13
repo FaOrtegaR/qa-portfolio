@@ -7,7 +7,7 @@ aplicaciones web reales.
 
 | Proyecto | Descripción | Herramientas | Estado |
 |---|---|---|---|
-| [La boutique d'Evangeline](./boutique-evangeline-qa/) | Tienda online de productos virales | Jira, Xray, Postman, Playwright | ✅ Completado |
+| [La boutique d'Evangeline](./boutique-evangeline-qa/) | Tienda online de productos virales | Jira, Xray, Postman, Playwright | 🚧 En progreso |
 
 ## Herramientas utilizadas
 
