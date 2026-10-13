@@ -21,3 +21,4 @@ Carpeta con capturas de pantalla de cada caso de prueba ejecutado.
 | TC-013 | Vista de modales en móvil | [TC-013.png](./TC-013.png) |
 | TC-014 | StickyCart | [TC-014.png](./TC-014.png) |
 | TC-015 | Modales legales | [TC-015.png](./TC-015.png) |
+| TC-015-b | Modal de Privacidad | [TC-015-b.png](./TC-015-b.png) |

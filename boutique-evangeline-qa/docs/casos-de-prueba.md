@@ -385,7 +385,7 @@
 
 **Resultado obtenido:** ✅ Pasó. Modales funcionan correctamente.
 
-**Evidencia:** `evidencias/TC-015.png`
+**Evidencia:** `evidencias/TC-015.png`, `evidencias/TC-015-b.png`
 
 ---
 
