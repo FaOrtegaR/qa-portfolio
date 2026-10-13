@@ -47,5 +47,5 @@ desplegada en Vercel.
 
 ## Contacto
 
-Fabián Ortega Rojas — Analista QA Junior
-linkedin.com/in/fabianortegarojas | fabortegarojas@gmail.com
+Fabián Ortega Rojas — Analista QA Junior<br>
+[linkedin.com/in/fabianortegarojas](https://linkedin.com/in/fabianortegarojas) | [fabortegarojas@gmail.com](mailto:fabortegarojas@gmail.com)
