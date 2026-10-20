@@ -11,8 +11,10 @@ Durante las pruebas en producción, se detectaron 3 bugs críticos que afectaban
 - **Causa raíz:** La tabla de la base de datos retenía estados anteriores de los subtotales al hacer actualizaciones asíncronas.
 - **Solución:** Se reescribió la función `actualizarPedido` para que elimine todos los items anteriores y reescriba la lista exacta con los subtotales recalculados desde cero.
 - **Evidencia:**
-  ![Captura 1: Error en el total](../evidencias/bug-01-total-incorrecto.png)
-  ![Captura 2: Comparación del cálculo](../evidencias/bug-01-total-incorrecto-antes.png)
+
+| Captura 1 | Captura 2 |
+| :---: | :---: |
+| ![Error en el total](../evidencias/bug-01-total-incorrecto.png) | ![Comparación del cálculo](../evidencias/bug-01-total-incorrecto-antes.png) |
 
 ### BUG-002 — Cierre inesperado (Crash) al usar el reconocimiento de voz
 - **Severidad:** Alta
@@ -26,4 +28,7 @@ Durante las pruebas en producción, se detectaron 3 bugs críticos que afectaban
 - **Causa raíz:** Un `LaunchedEffect` mal configurado reiniciaba el estado de "cargando" cada vez que la lista de productos se refrescaba.
 - **Solución:** Se ajustó el `LaunchedEffect` para que solo escuche los cambios en el `pedidoId` y no en la lista de productos.
 - **Evidencia:**
-  ![Captura: La lista desaparece al editar](../evidencias/bug-02-lista-desaparece.png)
+
+| Captura del error |
+| :---: |
+| ![La lista desaparece al editar](../evidencias/bug-02-lista-desaparece.png) |

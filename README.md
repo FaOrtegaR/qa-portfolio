@@ -53,6 +53,7 @@ Aplicación Android nativa desarrollada en Kotlin + Jetpack Compose para la gest
 
 - [Plan de pruebas](./la-mejor-caserita-qa/docs/plan-de-pruebas.md)
 - [Casos de prueba](./la-mejor-caserita-qa/docs/casos-de-prueba.md)
+- [Resultados de pruebas](./la-mejor-caserita-qa/docs/resultados-de-pruebas.md)
 - [Bugs reportados y resueltos](./la-mejor-caserita-qa/docs/bugs-reportados.md)
 - [Evidencias](./la-mejor-caserita-qa/evidencias/)
 
