@@ -31,7 +31,7 @@ Validar la estabilidad de la aplicación, la precisión de los cálculos matemá
 
 | Ambiente | Descripción |
 |---|---|
-| **Dispositivo Real** | Motorola Edge 68 (Android 14) |
+| **Dispositivo Real** | Motorola Edge 60 (Android 14) |
 | **Dispositivo Real** | Samsung Galaxy A50 (Android 11) |
 
 ## 6. Criterios de salida

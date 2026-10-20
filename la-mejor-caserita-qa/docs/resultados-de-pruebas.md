@@ -7,7 +7,7 @@
 | **Proyecto** | La Mejor Caserita (App Android) |
 | **Fecha de ejecución** | Octubre 2026 |
 | **Responsable** | Fabián Ortega Rojas |
-| **Ambiente** | Dispositivo Real (Motorola Edge 68) / Emulador Android Studio |
+| **Ambiente** | Dispositivo Real (Motorola Edge 60) / Emulador Android Studio |
 | **Total de casos ejecutados** | 15 |
 | **Casos pasados** | 15 |
 | **Tasa de éxito** | 100% (tras resolución de bugs) |
