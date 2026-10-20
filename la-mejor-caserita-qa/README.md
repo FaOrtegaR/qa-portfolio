@@ -21,7 +21,7 @@ Validar el correcto funcionamiento de la aplicación móvil, enfocándose en la 
 
 ## Tecnologías evaluadas
 
-- **Dispositivo:** Android (Motorola Edge 68 / Galaxy A50)
+- **Dispositivo:** Android (Motorola Edge 60 / Galaxy A50)
 - **Base de datos:** Room (SQLite)
 - **Voz:** SpeechRecognizer
 - **UI:** Jetpack Compose
